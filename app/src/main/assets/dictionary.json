@@ -1,0 +1,814 @@
+{
+    "words": [
+        {
+        "no": 1,
+        "arabic": "قَالَ",
+        "translation": "to say",
+        "transliteration": "KaaLa",
+        "root_word": "ق و ل",
+        "frequency": "1618"
+        },
+        {
+        "no": 2,
+        "arabic": "كَانَ",
+        "translation": "to be",
+        "transliteration": "KaNaa",
+        "root_word": "ك و ن",
+        "frequency": "1358"
+        },
+        {
+        "no": 3,
+        "arabic": "ءَامَنَ",
+        "translation": "to believe",
+        "transliteration": "AaMaNa",
+        "root_word": "ا م ن",
+        "frequency": "537"
+        },
+        {
+        "no": 4,
+        "arabic": "عَلِمَ",
+        "translation": "to know",
+        "transliteration": "AaLeMa",
+        "root_word": "ع ل م",
+        "frequency": "382"
+        },
+        {
+        "no": 5,
+        "arabic": "جَعَلَ",
+        "translation": "to make",
+        "transliteration": "JaAaLa",
+        "root_word": "ج ع ل",
+        "frequency": "340"
+        },
+        {
+        "no": 6,
+        "arabic": "كَفَرَ",
+        "translation": "to disbelieve",
+        "transliteration": "KaFaRa",
+        "root_word": "ك ف ر",
+        "frequency": "289"
+        },
+        {
+        "no": 7,
+        "arabic": "جَآءَ",
+        "translation": "to come",
+        "transliteration": "JaAa",
+        "root_word": "ج ي ا",
+        "frequency": "278"
+        },
+        {
+        "no": 8,
+        "arabic": "عَمِلَ",
+        "translation": "to do, to work",
+        "transliteration": "AaMaLa",
+        "root_word": "ع م ل",
+        "frequency": "276"
+        },
+        {
+        "no": 9,
+        "arabic": "آتَى",
+        "translation": "to give",
+        "transliteration": "AaThay",
+        "root_word": "ا ت ي",
+        "frequency": "271"
+        },
+        {
+        "no": 10,
+        "arabic": "رَءَا",
+        "translation": "to see",
+        "transliteration": "RaAa",
+        "root_word": "ر ا ي",
+        "frequency": "271"
+        },
+        {
+        "no": 11,
+        "arabic": "أَتَى",
+        "translation": "to come, to bring",
+        "transliteration": "AaThay",
+        "root_word": "ا ت ي",
+        "frequency": "264"
+        },
+        {
+        "no": 12,
+        "arabic": "شَآءَ",
+        "translation": "to will, to wish",
+        "transliteration": "ShaAa",
+        "root_word": "ش ي ا",
+        "frequency": "236"
+        },
+        {
+        "no": 13,
+        "arabic": "خَلَقَ",
+        "translation": "to create",
+        "transliteration": "KahLaKa",
+        "root_word": "خ ل ق",
+        "frequency": "184"
+        },
+        {
+        "no": 14,
+        "arabic": "أَنزَلَ",
+        "translation": "to send down, to reveal",
+        "transliteration": "UnZaLa",
+        "root_word": "ن ز ل",
+        "frequency": "183"
+        },
+        {
+        "no": 15,
+        "arabic": "كَذَّبَ",
+        "translation": "to deny, to reject",
+        "transliteration": "KaDhaBa",
+        "root_word": "ك ذ ب",
+        "frequency": "176"
+        },
+        {
+        "no": 16,
+        "arabic": "دَعَا",
+        "translation": "to call, to invite, to pray",
+        "transliteration": "DhaAa",
+        "root_word": "د ع و",
+        "frequency": "170"
+        },
+        {
+        "no": 17,
+        "arabic": "ٱتَّقَىٰ",
+        "translation": "to be righteous, to fear (Allah)",
+        "transliteration": "ItTaQaa",
+        "root_word": "و ق ي",
+        "frequency": "166"
+        },
+        {
+        "no": 18,
+        "arabic": "هَدَى",
+        "translation": "to guide",
+        "transliteration": "HaDa",
+        "root_word": "ه د ي",
+        "frequency": "144"
+        },
+        {
+        "no": 19,
+        "arabic": "أَرَادَ",
+        "translation": "to intend, to desire, to want, to wish",
+        "transliteration": "AraaDa",
+        "root_word": "ر و د",
+        "frequency": "139"
+        },
+        {
+        "no": 20,
+        "arabic": "ٱتَّبَعَ",
+        "translation": "to follow",
+        "transliteration": "ItTaBaAa",
+        "root_word": "ت ب ع",
+        "frequency": "136"
+        },
+        {
+        "no": 21,
+        "arabic": "أَرْسَلَ",
+        "translation": "to send",
+        "transliteration": "ArSaLa",
+        "root_word": "ر س ل",
+        "frequency": "130"
+        },
+        {
+        "no": 22,
+        "arabic": "أَخَذَ",
+        "translation": "to take, to seize",
+        "transliteration": "AaKhaDha",
+        "root_word": "ا خ ذ",
+        "frequency": "127"
+        },
+        {
+        "no": 23,
+        "arabic": "ٱتَّخَذَ",
+        "translation": "to take",
+        "transliteration": "UtaKhaDza",
+        "root_word": "ا خ ذ",
+        "frequency": "124"
+        },
+        {
+        "no": 24,
+        "arabic": "عَبَدَ",
+        "translation": "to worship",
+        "transliteration": "AaBaTha",
+        "root_word": "ع ب د",
+        "frequency": "122"
+        },
+        {
+        "no": 25,
+        "arabic": "ظَلَمَ",
+        "translation": "to oppress, to wrong",
+        "transliteration": "ZaLaMa",
+        "root_word": "ظ ل م",
+        "frequency": "110"
+        },
+        {
+        "no": 26,
+        "arabic": "سَأَلَ",
+        "translation": "to ask",
+        "transliteration": "SaAaLa",
+        "root_word": "س ا ل",
+        "frequency": "106"
+        },
+        {
+        "no": 27,
+        "arabic": "وَجَدَ",
+        "translation": "to find",
+        "transliteration": "WaJaTha",
+        "root_word": "و ج د",
+        "frequency": "106"
+        },
+        {
+        "no": 28,
+        "arabic": "أَخْرَجَ",
+        "translation": "to bring forth, to drive out",
+        "transliteration": "AkhRaJa",
+        "root_word": "خ ر ج",
+        "frequency": "99"
+        },
+        {
+        "no": 29,
+        "arabic": "أَكَلَ",
+        "translation": "to eat, to consume",
+        "transliteration": "AaKaLa",
+        "root_word": "ا ك ل",
+        "frequency": "93"
+        },
+        {
+        "no": 30,
+        "arabic": "لَّيْسَ",
+        "translation": "to not be",
+        "transliteration": "LaySa",
+        "root_word": "ل ي س",
+        "frequency": "89"
+        },
+        {
+        "no": 31,
+        "arabic": "فَعَلَ",
+        "translation": "to do",
+        "transliteration": "FaAaLa",
+        "root_word": "ف ع ل",
+        "frequency": "88"
+        },
+        {
+        "no": 32,
+        "arabic": "نَّظَرَ",
+        "translation": "to look, to see",
+        "transliteration": "NaZaRa",
+        "root_word": "ن ظ ر",
+        "frequency": "87"
+        },
+        {
+        "no": 33,
+        "arabic": "ذَكَرَ",
+        "translation": "to remember, to mention",
+        "transliteration": "ZaKaRa",
+        "root_word": "ذ ك ر",
+        "frequency": "84"
+        },
+        {
+        "no": 34,
+        "arabic": "خَافَ",
+        "translation": "to fear, to be afraid",
+        "transliteration": "KhaFa",
+        "root_word": "خ و ف",
+        "frequency": "83"
+        },
+        {
+        "no": 35,
+        "arabic": "قَتَلَ",
+        "translation": "to kill",
+        "transliteration": "KaThaLa",
+        "root_word": "ق ت ل",
+        "frequency": "83"
+        },
+        {
+        "no": 36,
+        "arabic": "رَجَعَ",
+        "translation": "to return",
+        "transliteration": "RaJaAa",
+        "root_word": "ر ج ع",
+        "frequency": "79"
+        },
+        {
+        "no": 37,
+        "arabic": "سَمِعَ",
+        "translation": "to hear, to listen",
+        "transliteration": "SaMaAa",
+        "root_word": "س م ع",
+        "frequency": "78"
+        },
+        {
+        "no": 38,
+        "arabic": "تَوَلَّىٰ",
+        "translation": "to turn",
+        "transliteration": "TaWaLay",
+        "root_word": "و ل ي",
+        "frequency": "78"
+        },
+        {
+        "no": 39,
+        "arabic": "أَمَرَ",
+        "translation": "to order, to command",
+        "transliteration": "AaMaRa",
+        "root_word": "ا م ر",
+        "frequency": "77"
+        },
+        {
+        "no": 40,
+        "arabic": "دَخَلَ",
+        "translation": "to enter",
+        "transliteration": "DaKhaLa",
+        "root_word": "د خ ل",
+        "frequency": "76"
+        },
+        {
+        "no": 41,
+        "arabic": "جَزَىٰ",
+        "translation": "to reward, to recompense",
+        "transliteration": "JaZaAa",
+        "root_word": "ج ز ي",
+        "frequency": "73"
+        },
+        {
+        "no": 42,
+        "arabic": "أَطَاعَ",
+        "translation": "to obey",
+        "transliteration": "AaTaAa",
+        "root_word": "ط و ع",
+        "frequency": "72"
+        },
+        {
+        "no": 43,
+        "arabic": "أَوْحَىٰٓ",
+        "translation": "to reveal, to inspire",
+        "transliteration": "UHiYa",
+        "root_word": "و ح ي",
+        "frequency": "72"
+        },
+        {
+        "no": 44,
+        "arabic": "أَشْرَكَ",
+        "translation": "to associate partners",
+        "transliteration": "UshRaKa",
+        "root_word": "ش ر ك",
+        "frequency": "71"
+        },
+        {
+        "no": 45,
+        "arabic": "أَلْقَىٰٓ",
+        "translation": "to cast, to throw, to meet, to offer",
+        "transliteration": "AlQaa",
+        "root_word": "ل ق ي",
+        "frequency": "71"
+        },
+        {
+        "no": 46,
+        "arabic": "وَعَدَ",
+        "translation": "to promise",
+        "transliteration": "VaAaTha",
+        "root_word": "و ع د",
+        "frequency": "70"
+        },
+        {
+        "no": 47,
+        "arabic": "أَنفَقَ",
+        "translation": "to spend",
+        "transliteration": "UnFaKa",
+        "root_word": "ن ف ق",
+        "frequency": "68"
+        },
+        {
+        "no": 48,
+        "arabic": "غَفَرَ",
+        "translation": "to forgive",
+        "transliteration": "GhaFaRa",
+        "root_word": "غ ف ر",
+        "frequency": "65"
+        },
+        {
+        "no": 49,
+        "arabic": "أَحْبَبْ",
+        "translation": "to love, to like",
+        "transliteration": "AḥBa",
+        "root_word": "ح ب ب",
+        "frequency": "64"
+        },
+        {
+        "no": 50,
+        "arabic": "أَصَابَ",
+        "translation": "to strike, to befall, to bestow",
+        "transliteration": "AaSaBa",
+        "root_word": "ص و ب",
+        "frequency": "64"
+        },
+
+        {
+        "no": 51,
+        "arabic": "أَضَلَّ",
+        "translation": "to let go astray, to mislead",
+        "transliteration": "AaDaLa",
+        "root_word": "ض ل ل",
+        "frequency": "64"
+        },
+        {
+        "no": 52,
+        "arabic": "تَابَ",
+        "translation": "to repent, to turn",
+        "transliteration": "THaBa",
+        "root_word": "ت و ب",
+        "frequency": "63"
+        },
+        {
+        "no": 53,
+        "arabic": "كَسَبَ",
+        "translation": "to earn",
+        "transliteration": "KaSaBa",
+        "root_word": "ك س ب",
+        "frequency": "62"
+        },
+        {
+        "no": 54,
+        "arabic": "نَزَّلَ",
+        "translation": "to send down, to reveal",
+        "transliteration": "NaZaLa",
+        "root_word": "ن ز ل",
+        "frequency": "62"
+        },
+        {
+        "no": 55,
+        "arabic": "تَلَىٰ",
+        "translation": "to recite",
+        "transliteration": "TaLaa",
+        "root_word": "ت ل و",
+        "frequency": "61"
+        },
+        {
+        "no": 56,
+        "arabic": "رَزَقَ",
+        "translation": "to provide",
+        "transliteration": "RaZaKa",
+        "root_word": "ر ز ق",
+        "frequency": "61"
+        },
+        {
+        "no": 57,
+        "arabic": "قَضَىٰٓ",
+        "translation": "to decree, to decide, to judge",
+        "transliteration": "QaDaa",
+        "root_word": "ق ض ي",
+        "frequency": "59"
+        },
+        {
+        "no": 58,
+        "arabic": "نَصَرَ",
+        "translation": "to help",
+        "transliteration": "NaSaRa",
+        "root_word": "ن ص ر",
+        "frequency": "59"
+        },
+        {
+        "no": 59,
+        "arabic": "صَبَرَ",
+        "translation": "to be patient",
+        "transliteration": "SaBaRa",
+        "root_word": "ص ب ر",
+        "frequency": "58"
+        },
+        {
+        "no": 60,
+        "arabic": "جَرَيْ",
+        "translation": "to flow, to run",
+        "transliteration": "JaRaa",
+        "root_word": "ج ر ي",
+        "frequency": "57"
+        },
+        {
+        "no": 61,
+        "arabic": "مَسَّ",
+        "translation": "to touch",
+        "transliteration": "MaSsa",
+        "root_word": "م س س",
+        "frequency": "56"
+        },
+        {
+        "no": 62,
+        "arabic": "ضَرَبَ",
+        "translation": "to strike, to set forth",
+        "transliteration": "DhaRaBa",
+        "root_word": "ض ر ب",
+        "frequency": "55"
+        },
+        {
+        "no": 63,
+        "arabic": "قَٰتَلَ",
+        "translation": "to fight",
+        "transliteration": "QaThaLa",
+        "root_word": "ق ت ل",
+        "frequency": "54"
+        },
+        {
+        "no": 64,
+        "arabic": "أَقَامَ",
+        "translation": "to establish",
+        "transliteration": "AqAaMa",
+        "root_word": "ق و م",
+        "frequency": "54"
+        },
+        {
+        "no": 65,
+        "arabic": "خَرَجَ",
+        "translation": "to go out, to come out, to depart, to leave",
+        "transliteration": "KhaRaJa",
+        "root_word": "خ ر ج",
+        "frequency": "53"
+        },
+        {
+        "no": 66,
+        "arabic": "ضَلَّ",
+        "translation": "to go astray, to err, to lose",
+        "transliteration": "DalLa",
+        "root_word": "ض ل ل",
+        "frequency": "53"
+        },
+        {
+        "no": 67,
+        "arabic": "بَعَثَ",
+        "translation": "to raise, to resurrect, to send",
+        "transliteration": "BaAaTha",
+        "root_word": "ب ع ث",
+        "frequency": "52"
+        },
+        {
+        "no": 68,
+        "arabic": "أَحْيَا",
+        "translation": "to give life",
+        "transliteration": "AḥYaa",
+        "root_word": "ح ي ي",
+        "frequency": "51"
+        },
+        {
+        "no": 69,
+        "arabic": "تَذَكَّرَ",
+        "translation": "to receive admonition",
+        "transliteration": "TaDhakKaRa",
+        "root_word": "ذ ك ر",
+        "frequency": "51"
+        },
+        {
+        "no": 70,
+        "arabic": "أَهْلَكَ",
+        "translation": "to destroy",
+        "transliteration": "AhLaKa",
+        "root_word": "ه ل ك",
+        "frequency": "51"
+        },
+        {
+        "no": 71,
+        "arabic": "ٱفْتَرَىٰ",
+        "translation": "to invent",
+        "transliteration": "",
+        "root_word": "ف ر ي",
+        "frequency": "50"
+        },
+        {
+        "no": 72,
+        "arabic": "زَادَ",
+        "translation": "to increase",
+        "transliteration": "ZaDa",
+        "root_word": "ز ي د",
+        "frequency": "49"
+        },
+        {
+        "no": 73,
+        "arabic": "عَقَلُ",
+        "translation": "to understand, to reason",
+        "transliteration": "",
+        "root_word": "ع ق ل",
+        "frequency": "49"
+        },
+        {
+        "no": 74,
+        "arabic": "كَتَبَ",
+        "translation": "to write, to prescribe, to ordain",
+        "transliteration": "KaThaBa",
+        "root_word": "ك ت ب",
+        "frequency": "49"
+        },
+        {
+        "no": 75,
+        "arabic": "ظَنَّ",
+        "translation": "to think, to assume, to guess",
+        "transliteration": "ZanNa",
+        "root_word": "ظ ن ن",
+        "frequency": "47"
+        },
+        {
+        "no": 76,
+        "arabic": "شَكَرَ",
+        "translation": "to be grateful, to give thanks",
+        "transliteration": "ShaKaRa",
+        "root_word": "ش ك ر",
+        "frequency": "46"
+        },
+        {
+        "no": 77,
+        "arabic": "نَبَّأَ",
+        "translation": "to inform",
+        "transliteration": "NabBa",
+        "root_word": "ن ب ا",
+        "frequency": "46"
+        },
+        {
+        "no": 78,
+        "arabic": "حَكَمَ",
+        "translation": "to judge",
+        "transliteration": "HaKaMa",
+        "root_word": "ح ك م",
+        "frequency": "45"
+        },
+        {
+        "no": 79,
+        "arabic": "يَذَرَ",
+        "translation": "to leave, to forsake",
+        "transliteration": "YaDhaRa",
+        "root_word": "و ذ ر",
+        "frequency": "45"
+        },
+        {
+        "no": 80,
+        "arabic": "حَسِبَ",
+        "translation": "to think",
+        "transliteration": "HaSehBa",
+        "root_word": "ح س ب",
+        "frequency": "44"
+        },
+        {
+        "no": 81,
+        "arabic": "شَهِدَ",
+        "translation": "to testify, to bear witness",
+        "transliteration": "ShaHiDa",
+        "root_word": "ش ه د",
+        "frequency": "44"
+        },
+        {
+        "no": 82,
+        "arabic": "مَلَكَتْ",
+        "translation": "to possess, to have power",
+        "transliteration": "MaLaKaTha",
+        "root_word": "م ل ك",
+        "frequency": "44"
+        },
+        {
+        "no": 83,
+        "arabic": "نَادَىٰ",
+        "translation": "to call",
+        "transliteration": "Naadaa",
+        "root_word": "ن د و",
+        "frequency": "44"
+        },
+        {
+        "no": 84,
+        "arabic": "أَنذَرَ",
+        "translation": "to warn",
+        "transliteration": "UnDhaRa",
+        "root_word": "ن ذ ر",
+        "frequency": "44"
+        },
+        {
+        "no": 85,
+        "arabic": "أُدْخِلَ",
+        "translation": "to admit",
+        "transliteration": "UthKhiLa",
+        "root_word": "د خ ل",
+        "frequency": "42"
+        },
+        {
+        "no": 86,
+        "arabic": "سَبَّحَ",
+        "translation": "to glorify, to praise",
+        "transliteration": "SaBaAa",
+        "root_word": "س ب ح",
+        "frequency": "42"
+        },
+        {
+        "no": 87,
+        "arabic": "ٱسْتَطَاعَ",
+        "translation": "to be able to, to be capable",
+        "transliteration": "IsTaThaAa",
+        "root_word": "ط و ع",
+        "frequency": "42"
+        },
+        {
+        "no": 88,
+        "arabic": "حَمَلَ",
+        "translation": "to carry, to bear",
+        "transliteration": "HaMaLa",
+        "root_word": "ح م ل",
+        "frequency": "41"
+        },
+        {
+        "no": 89,
+        "arabic": "عَذَّبَ",
+        "translation": "to punish",
+        "transliteration": "AaZaBa",
+        "root_word": "ع ذ ب",
+        "frequency": "41"
+        },
+        {
+        "no": 90,
+        "arabic": "عَلَّمَ",
+        "translation": "to teach",
+        "transliteration": "AaLaMa",
+        "root_word": "ع ل م",
+        "frequency": "41"
+        },
+
+        {
+        "no": 91,
+        "arabic": "بِئْسَ",
+        "translation": "to be wretched, to be evil",
+        "transliteration": "BiSa",
+        "root_word": "ب ا س",
+        "frequency": "40"
+        },
+        {
+        "no": 92,
+        "arabic": "بَلَغَ",
+        "translation": "to reach",
+        "transliteration": "BaLaGha",
+        "root_word": "ب ل غ",
+        "frequency": "40"
+        },
+        {
+        "no": 93,
+        "arabic": "تَرَكَ",
+        "translation": "to leave",
+        "transliteration": "ThRaKa",
+        "root_word": "ت ر ك",
+        "frequency": "40"
+        },
+        {
+        "no": 94,
+        "arabic": "خَشِىَ",
+        "translation": "to fear",
+        "transliteration": "KhaShiYa",
+        "root_word": "خ ش ي",
+        "frequency": "40"
+        },
+        {
+        "no": 95,
+        "arabic": "أَرَيْ",
+        "translation": "to show",
+        "transliteration": "UuRi",
+        "root_word": "ر ا ي",
+        "frequency": "40"
+        },
+        {
+        "no": 96,
+        "arabic": "ٱسْتَغْفَرَ",
+        "translation": "to ask forgiveness",
+        "transliteration": "IsTaghFaRa",
+        "root_word": "غ ف ر",
+        "frequency": "40"
+        },
+        {
+        "no": 97,
+        "arabic": "ٱسْتَكْبَرَ",
+        "translation": "to be arrogant",
+        "transliteration": "IsTakBaRa",
+        "root_word": "ك ب ر",
+        "frequency": "40"
+        },
+        {
+        "no": 98,
+        "arabic": "ٱهْتَدَىٰ",
+        "translation": "to be guided",
+        "transliteration": "IhTaDay",
+        "root_word": "ه د ي",
+        "frequency": "40"
+        },
+        {
+        "no": 99,
+        "arabic": "تَوَكَّلْ",
+        "translation": "to put trust",
+        "transliteration": "ThWaKal",
+        "root_word": "و ك ل",
+        "frequency": "40"
+        },
+        {
+        "no": 100,
+        "arabic": "حَرَّمَ",
+        "translation": "to forbid, to make unlawful",
+        "transliteration": "HaRaMa",
+        "root_word": "ح ر م",
+        "frequency": "39"
+        },
+        {
+        "no": 101,
+        "arabic": "مَّاتَ",
+        "translation": "to die",
+        "transliteration": "MauTha",
+        "root_word": "م و ت",
+        "frequency": "39"
+        }
+        ]
+}

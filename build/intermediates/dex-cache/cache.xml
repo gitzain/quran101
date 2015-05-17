@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/pre-dexed/release/classes-3932ec69ee94d580cec4b3f5e1b0895681aebc4a.jar"
+        jar="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/pre-dexed/release/support-annotations-20.0.0-820090ec777e85e5f91abc11b0ce2cdd64f29191.jar"
+        jar="/usr/share/android-studio/data/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/pre-dexed/release/feedback-9a450df77c789f24e69743369c4176dc46a5ab86.jar"
+        jar="/home/zain/Documents/AndroidStudioProjects/Quran101/app/libs/feedback.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="21e8cf4719568f3a82309d6c8b8b740da6ab2311"/>
+    <item
+        dex="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/pre-dexed/release/internal_impl-20.0.0-5ef80d8706087bf05cad1031626fcf9aad9e3b4c.jar"
+        jar="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/zain/Documents/AndroidStudioProjects/Quran101/app/build/intermediates/pre-dexed/release/android-iconify-1.0.8-3937e8a428907e0ddc3731cc48eec51dab9d3734.jar"
+        jar="/home/zain/.gradle/caches/modules-2/files-2.1/com.joanzapata.android/android-iconify/1.0.8/7bba1039e3413ac0c82452b431a4aaa76648f7e9/android-iconify-1.0.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7bba1039e3413ac0c82452b431a4aaa76648f7e9"/>
+
+</pre-dex-items>

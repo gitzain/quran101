@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:background="@color/AppColorGreen"
+android:padding="16dp">
+
+    <LinearLayout android:id="@+id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView style="?android:textAppearanceLarge"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Story"
+            android:textAllCaps="true" />
+
+        <TextView style="?android:textAppearanceSmall"
+            android:textColor="#80ffffff"
+            android:textStyle="bold"
+            android:lineSpacingMultiplier="1.2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This is my first android application. Hopefully someone will find it useful. \n\n If there are enough users the app will continue to be developed including expanding the number of words and additional features such as search, a test mode etc." />
+    </LinearLayout>
+
+</LinearLayout>

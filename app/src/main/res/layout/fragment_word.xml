@@ -1,0 +1,223 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/AppColorGray"
+    android:layout_centerHorizontal="true"
+    tools:context="com.iamzain.quran101.WordFragment">
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="left"
+        android:layout_above="@+id/word_arabic"
+        android:layout_alignStart="@+id/text_details"
+        android:layout_alignLeft="@id/text_details"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:text="No."
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/word_number"
+            android:text="1"
+            android:textSize="25sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/word_arabic"
+        android:text="قَالَ"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="125sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/translation"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/translation"
+        android:text="to say"
+        android:textSize="40sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_above="@+id/anchor"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-30dp"/>
+
+    <View
+        android:id="@+id/anchor"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerInParent="true" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/text_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignBaseline="@+id/translation"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="100dp">
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:text="Transliteration"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp" />
+
+            <TextView
+                android:id="@+id/transliteration"
+                android:text="kulaah"
+                android:textSize="25sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@color/TransparentWhiteDivider" />
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:text="Root Word"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp"/>
+
+            <TextView
+                android:id="@+id/word_root"
+                android:text="say"
+                android:textSize="25sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="fill_parent"
+            android:background="@color/TransparentWhiteDivider" />
+
+        <LinearLayout
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:text="Frequency"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="10dp"
+                android:paddingLeft="10dp" />
+
+            <TextView
+                android:id="@+id/frequency"
+                android:text="1000"
+                android:textSize="25sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+    <!--
+
+
+        <TextView
+            android:id="@+id/text_word_number"
+            android:text="No."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="-50dp"
+            android:layout_marginBottom="50dp"
+            android:layout_above="@+id/text_arabic"
+            android:layout_alignLeft="@+id/text_arabic"
+            android:layout_alignStart="@+id/text_arabic" />-->
+
+<!--    <TextView
+        android:text="1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_above="@+id/text_arabic"
+        android:layout_toRightOf="@+id/text_word_number"
+        android:layout_toEndOf="@+id/text_word_number"
+        android:id="@+id/textView2" />
+
+
+    <TextView
+        android:text="100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:text="100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>-->
+
+<!--    <TableRow
+        android:id="@+id/tableRow5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <IconTextView
+            android:id="@+id/icon"
+            android:padding="30sp"
+            android:background="@drawable/button_background"
+            android:text="{fa-thumbs-o-up}"
+            android:shadowColor="#22000000"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="1"
+            android:textSize="30sp" />
+
+        <IconTextView
+            android:id="@+id/icon2"
+            android:padding="30sp"
+            android:background="@drawable/button_background"
+            android:text="{fa-thumbs-o-up}"
+            android:shadowColor="#22000000"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="1"
+            android:textSize="30sp" />
+
+    </TableRow>-->
+
+</RelativeLayout>
