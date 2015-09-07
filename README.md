@@ -30,7 +30,7 @@ TODO: Screenshots of the app
 </a>
 
 ### Usage
-TODO: Write usage instructions
+Once installed simply tap the App icon from the App Drawer to launch.
 
 ## Contributing
 1. Fork it!
@@ -40,7 +40,7 @@ TODO: Write usage instructions
 5. Submit a pull request :D
 
 ## History
-TODO: Write history
+02/11/14: v1 Published to the Google Play Store.
 
 ## Credits
 TODO: Write credits
