@@ -24,10 +24,7 @@ TODO: Screenshots of the app
 ## Installation & Usage
 
 ### Installation
-<a href="https://play.google.com/store/apps/details?id=com.iamzain.quran101">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
-</a>
+<a href="https://play.google.com/store/apps/details?id=com.iamzain.quran101&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Get it on Google Play" height="59" width="179" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge-border.png" /></a>
 
 ### Usage
 Once installed simply tap the App icon from the App Drawer to launch.
