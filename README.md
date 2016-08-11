@@ -15,7 +15,7 @@ An arabic language learning app for android.
 ## Motivation
 A simple app i developed as my first published app on the Google Play Store.
 
-The Quran has approximately 77,000 words. A lot of these words are repeated. This app contains the most common words along with meanings and how to pronounce the words in Arabic. The purpose of this app is to help you understand the Quran.
+The Quran has approximately 77,000 words. A lot of these words are repeated. This app contains the most common words along with meanings and how to pronounce the words in Arabic. The purpose of this app is to help understand arabic and the Quran.
 
 ## Screenshots
 Click <a href="https://play.google.com/store/apps/details?id=com.iamzain.quran101&hl=en&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">here</a> to view screenshots of the application on the Google Play Store
