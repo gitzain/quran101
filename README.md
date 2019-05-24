@@ -38,5 +38,9 @@ Once installed simply tap the App icon from the App Drawer to launch.
 ## History
 02/11/14: v1 Published to the Google Play Store.
 
+## Credits
+- Created by <a href="https://iamzain.com">Zain Khan</a>
+- Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
+
 ## License
 See the LICENSE file in this project's directory.
