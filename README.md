@@ -10,6 +10,7 @@ An arabic language learning app for android.
     - [Usage](#usage)
 - [Contributing](#contributing)
 - [History](#history)
+- [Credits](#credits)
 - [License](#license)
 
 ## Motivation
